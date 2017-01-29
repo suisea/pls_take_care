@@ -3,19 +3,19 @@
 "origin": ["#sentence# #emoji#"],
 
 "sentence": [
-"take yr meds",
-"drink more water",
-"eat if yr hungry",
-"take a nap",
-"breathe",
+"please remember to take yr meds",
+"please drink more water",
+"please eat if you need to",
+"suggestion: take a nap",
+"remember to breathe",
 "please take care of yourself today",
 "go out of yr way to thank someone today",
 "tell a friend you appreciate them today",
 "you are stronger than you think.",
 "i believe in you.",
-"compliment a stranger",
+"why not compliment a stranger?",
 "meds reminder",
-"go eat something if you need to",
+"go eat something if you feel hungry",
 "don't forget to drink lots of fluids",
 "please take a nap if you're tired!",
 "remember to eat and take yr meds today!",
@@ -49,7 +49,7 @@
 "please eat a snack if yr hungry!",
 "how are you doing? please drink more water!",
 "a small effort towards kindness goes a long way~",
-"please take a break to take a walk or move around and stretch if you are able to, or just close your eyes for a moment!",
+"please take a break and breathe, or just close your eyes for a moment!",
 "remember to get a good night’s rest tonight!",
 "i hope you’re not being too hard on yourself today, dear.",
 "there are always people in this universe who care about you, even if it doesn’t feel that way right now.",
@@ -146,3 +146,4 @@
 ]
 
 }
+
